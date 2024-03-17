@@ -11,7 +11,7 @@ h1 {
     line-height: 5rem;
 }
 
-.choise {
+.choice {
     height: 165px;
     width: 165px;
     border-radius: 50%;
@@ -21,7 +21,7 @@ h1 {
 
 }
 
-.choise:hover {
+.choice:hover {
     cursor: pointer;
     background-color: #081b31;
 
@@ -39,7 +39,7 @@ img {
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 
 .score-board {
@@ -56,15 +56,15 @@ img {
     font-size: 4rem;
 }
 
-.msg-container{
+.msg-container {
     margin-top: 5rem;
 }
 
-#msg{
+#msg {
     background-color: #081b31;
     color: #fff;
     display: inline;
-    padding:1rem;
+    padding: 1rem;
     border-radius: 1rem;
     font-size: x-large;
 }
