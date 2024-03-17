@@ -1,1 +1,1 @@
-# JavaScript
+# Rock-Papare-Scissors Game
